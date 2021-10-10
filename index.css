@@ -1,0 +1,8 @@
+#img {
+    background-image: url(imagens/IMAGEM-DESTACADA-10-1024x536-1160x665.jpg);
+    height: 800px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+}
