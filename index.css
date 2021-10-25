@@ -1,8 +1,28 @@
 #img {
     background-image: url(imagens/IMAGEM-DESTACADA-10-1024x536-1160x665.jpg);
-    height: 800px;
+    height: 740px;
     justify-content: center;
     align-items: center;
     text-align: center;
     display: flex;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+/*#img2{
+    background-image: url(imagens/WhatsApp\ Image\ 2021-08-22\ at\ 10.54.52\ \(2\).jpeg);
+    width: 100px;
+    position: fixed;
+    top: 850px;
+    left: 1150px;
+    z-index: 1;
+}*/ 
+ 
+#rodape{
+
+    background-image: url("/imagens/logo.png");
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 70px;
+
 }
